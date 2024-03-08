@@ -12,5 +12,3 @@ In this document, you'll find steps to get Android Studio connected to your Gith
    1. ![](d_login_github.png)
 5. Authorize Jetbrains
    1. ![](e_authorize_jetbrains.png)
-6. Authorized Oauth apps
-   1. ![](f_oauth_authorized_apps.png)
