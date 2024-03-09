@@ -31,3 +31,11 @@ TL;DR
 * Paste the contents from the previous section into the dialog labeled "Key"
 * Give the key a "Title" that makes sense fo you, ie: "My Laptop", "School Computer", etc...
 * Click "Add SSH Key"
+
+## Connecting Android Studio
+1. Copy repo link
+   1. ![](a_copy_github_link_ssh.png)
+2. Get from VSC dialog
+   1. ![](b_get_from_vcs.png)
+3. Clone Repo
+   1. ![](c_clone_repo_ssh.png)
