@@ -34,8 +34,15 @@ TL;DR
 
 ## Connecting Android Studio
 1. Copy repo link
-   1. ![](a_copy_github_link_ssh.png)
+   1. Navigate to the repo you want to clone.
+   2. At the top of the repo, click on the green "Code" dropdown.
+   3. Make sure you have SSH selected, then copy the URL.
+   4. ![](a_copy_github_link_ssh.png)
 2. Get from VSC dialog
-   1. ![](b_get_from_vcs.png)
+   1. Without a default project open, you'll receive the following dialog. Choose "Get from VCS".
+   2. ![](b_get_from_vcs.png)
 3. Clone Repo
-   1. ![](c_clone_repo_ssh.png)
+   1. On the following dialog, select the 1st option on the left and paste the URL into the field.
+   2. Click "Clone".
+   3. ![](c_clone_repo_ssh.png)
+4. You should now be connected and ready to start contributing to the codebase.
